@@ -1,4 +1,4 @@
-# 🐼 Pandas Video Series
+# 🐼 Pandas ETL examples
 
 A comprehensive collection of Jupyter notebooks demonstrating pandas techniques and best practices for data analysis and manipulation in Python.
 
@@ -45,30 +45,6 @@ The `data/` directory contains various datasets for hands-on practice:
 - Python 3.6+
 - Jupyter Notebook or JupyterLab
 
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/justmarkham/pandas-videos.git
-   cd pandas-videos
-   ```
-
-2. **Create a conda environment:**
-   ```bash
-   conda env create -f environment.yml
-   conda activate pandas-videos
-   ```
-
-   Or using pip:
-   ```bash
-   pip install pandas numpy matplotlib scikit-learn jupyter
-   ```
-
-3. **Launch Jupyter Notebook:**
-   ```bash
-   jupyter notebook
-   ```
-
 ## 🎯 Learning Path
 
 For beginners, we recommend following this learning sequence:
@@ -99,10 +75,6 @@ Contributions are welcome! Please feel free to:
 - Report bugs or issues
 - Suggest improvements or new topics
 - Submit pull requests with enhancements
-
-## 📺 Video Content
-
-This repository is designed to complement video tutorials. Each notebook contains practical examples and exercises that demonstrate real-world pandas usage patterns.
 
 
 ## 🔗 Additional Resources
